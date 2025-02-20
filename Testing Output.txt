@@ -1,0 +1,5 @@
+CMD :
+D:\BajajFinanceHealthExam\DestinationHashGenerator\target>java -jar DestinationHashGenerator-0.0.1-SNAPSHOT.jar 240843020105 D:\BajajFinanceHealthExam\DestinationHashGenerator\example.JSON
+
+O/P : 
+a81c13954febb5a6a917fc8658c89273;jhm14qte
